@@ -107,7 +107,7 @@ This will launch the interactive dashboard in your browser.
 ---
 
   
-[LinkedIn](https:/www.linkedin.com/in/kunaldrawal/)
+[LinkedIn](https://www.linkedin.com/in/kunaldrawal/)
 
 ---
 
