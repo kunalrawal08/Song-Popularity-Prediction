@@ -107,13 +107,14 @@ This will launch the interactive dashboard in your browser.
 ---
 
   
-[LinkedIn](https:/www.linkedin.com/in/kunaldrawal)
+[LinkedIn](https:/www.linkedin.com/in/kunaldrawal/)
 
 ---
 
 ## 🧾 License
 
 This project is open for educational and non-commercial use. Feel free to fork and customize it!
+
 
 
 
